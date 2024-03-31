@@ -3,7 +3,7 @@
 
 [Java Programming MOOC](https://java-programming.mooc.fi/) from the University of Helsinki.\
 Due to the fundamental nature of the Java Programming 1 course only a few exercises are included here.\
-Every java mini project's part corresponds to one of the course's parts.\
+Every java mini project's part corresponds to one of the course's parts.
 
 
 [Certificate](certificate-java-programming-i.png)
