@@ -1,8 +1,9 @@
 # Java Programming 1
 ![Static Badge](https://img.shields.io/badge/NetBeans%20-%20teal?style=for-the-badge&logo=apachenetbeanside&logoColor=black)
 
-[Java Programming MOOC](https://java-programming.mooc.fi/) from the University of Helsinki
-Due to the fundamental nature of the Java Programming 1 course only a few exercises are included here.
+[Java Programming MOOC](https://java-programming.mooc.fi/) from the University of Helsinki.\
+Due to the fundamental nature of the Java Programming 1 course only a few exercises are included here.\
+Every java mini project's part corresponds to one of the course's parts.\
 
 
 [Certificate](certificate-java-programming-i.png)
