@@ -3,12 +3,12 @@
  Due to the fundamental nature of the Java Programming 1 course only a few exercises are included here.
 
 - Part 1
- - Getting started with programming
- - Printing
- - Reading input
- - Variables
- - Calculating with numbers
- - Conditional statements and conditional operation
+  - Getting started with programming
+  - Printing
+  - Reading input
+  - Variables
+  - Calculating with numbers
+  - Conditional statements and conditional operation
 - Part 2
  - Recurring problems and patterns to solve them
  - Repeating functionality
