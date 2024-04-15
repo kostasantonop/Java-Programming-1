@@ -42,3 +42,6 @@ Every java mini project's part corresponds to one of the course's parts.
   - Programming paradigms
   - Algorithms
   - Larger programming exercises
+
+
+**![Points Breakdown](points_breakdown.png)**
